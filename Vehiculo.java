@@ -10,4 +10,7 @@ public class Vehiculo {
   public void mostrarMarca() {
     System.out.println(marca);
   }
+  public void mostrarModelo() {
+    System.out.println(modelo);
+  }
 }
