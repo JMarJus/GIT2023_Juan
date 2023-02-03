@@ -7,4 +7,7 @@ public class Vehiculo {
     this.modelo = modelo;
     this.matricula = matricula;
   }
+  public void mostrarMarca() {
+    System.out.println(marca);
+  }
 }
